@@ -1,4 +1,4 @@
 # feedpanda
 How do we feed panda?
 
-Need to find bamboo...
+We are on Yanjin's branch to find bamboo
